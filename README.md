@@ -1,7 +1,7 @@
 # Social-Midia App
-Technology: Node.js, MongoDB, Passport etc.
-
-Features: 
+# Technology: 
+  Node.js, MongoDB, Passport etc.
+# Features: 
   1) You can register and make your profile.
   2) login | logout yourself.
   3) upload post.
